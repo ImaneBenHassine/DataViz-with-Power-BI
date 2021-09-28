@@ -9,3 +9,23 @@ Here I share some of my Dashboards using Power BI & DAX to extract compelling in
 ## Time Intelligence
 ## Reports & Visualisations
 ## Online Service
+
+## Some of the analytical patterns I was able to solve: 
+- Percent of Total
+- Moving Averages
+- Statistical Analysis
+- Cumulative totals
+- Time Intelligence
+- Static Grouping
+- Dynamic Grouping
+- Events in Progress
+- Budgeting
+- Forecasting
+- Parameter tables
+- Scenario & What if analysis
+- Attrition analysis
+- Market basket analysis
+- Customer insights & behaviours
+- Many to many relationships
+- Related unique counts
+- Examples of combining various techniques
