@@ -12,6 +12,14 @@ https://app.powerbi.com/reportEmbed?reportId=8df2696c-5e6b-4715-895f-8ab748c2d79
 #### Financial Analysis
 https://app.powerbi.com/reportEmbed?reportId=56be13d2-41d3-4058-a61f-e73ea32c1b79&autoAuth=true&ctid=d594b06b-c987-47c3-b322-63021880508c&config=eyJjbHVzdGVyVXJsIjoiaHR0cHM6Ly93YWJpLXNvdXRoLWFmcmljYS1ub3J0aC1hLXByaW1hcnktcmVkaXJlY3QuYW5hbHlzaXMud2luZG93cy5uZXQvIn0%3D
 
+#### Product Budgeting Analysis
+https://app.powerbi.com/reportEmbed?reportId=dd1a8855-a24d-4bc3-985b-df356cf1ecd3&autoAuth=true&ctid=d594b06b-c987-47c3-b322-63021880508c&config=eyJjbHVzdGVyVXJsIjoiaHR0cHM6Ly93YWJpLXNvdXRoLWFmcmljYS1ub3J0aC1hLXByaW1hcnktcmVkaXJlY3QuYW5hbHlzaXMud2luZG93cy5uZXQvIn0%3D
+
+#### Customers Analysis
+https://app.powerbi.com/reportEmbed?reportId=82c827b1-312b-4f30-94c5-40e79a95778d&autoAuth=true&ctid=d594b06b-c987-47c3-b322-63021880508c&config=eyJjbHVzdGVyVXJsIjoiaHR0cHM6Ly93YWJpLXNvdXRoLWFmcmljYS1ub3J0aC1hLXByaW1hcnktcmVkaXJlY3QuYW5hbHlzaXMud2luZG93cy5uZXQvIn0%3D
+
+
+
 
 ### Querying & Transforming Data
 ### Data Modelling
