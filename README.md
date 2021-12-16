@@ -4,6 +4,10 @@ Here I share some of my Dashboards using Power BI & DAX to extract compelling in
 
 Here is a link for some of my creations : 
 
+#### Olympic Games Analysis
+
+https://app.powerbi.com/reportEmbed?reportId=56261f67-5c75-4285-a001-9a84744db702&autoAuth=true&ctid=d594b06b-c987-47c3-b322-63021880508c&config=eyJjbHVzdGVyVXJsIjoiaHR0cHM6Ly93YWJpLXNvdXRoLWFmcmljYS1ub3J0aC1hLXByaW1hcnktcmVkaXJlY3QuYW5hbHlzaXMud2luZG93cy5uZXQvIn0%3D
+
 #### Management Analysis
 https://app.powerbi.com/reportEmbed?reportId=8df2696c-5e6b-4715-895f-8ab748c2d79d&autoAuth=true&ctid=d594b06b-c987-47c3-b322-63021880508c&config=eyJjbHVzdGVyVXJsIjoiaHR0cHM6Ly93YWJpLXNvdXRoLWFmcmljYS1ub3J0aC1hLXByaW1hcnktcmVkaXJlY3QuYW5hbHlzaXMud2luZG93cy5uZXQvIn0%3D
 
