@@ -5,6 +5,7 @@ Here I share some of my Dashboards using Power BI & DAX to extract compelling in
 Here is a link for some of my creations : 
 
 #### Olympic Games Analysis
+This report visualize how countries have performed historically in the Olympic Games, with the possibility to select country plus hilighting more details about the competitors.
 
 https://app.powerbi.com/reportEmbed?reportId=56261f67-5c75-4285-a001-9a84744db702&autoAuth=true&ctid=d594b06b-c987-47c3-b322-63021880508c&config=eyJjbHVzdGVyVXJsIjoiaHR0cHM6Ly93YWJpLXNvdXRoLWFmcmljYS1ub3J0aC1hLXByaW1hcnktcmVkaXJlY3QuYW5hbHlzaXMud2luZG93cy5uZXQvIn0%3D
 
