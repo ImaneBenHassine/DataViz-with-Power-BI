@@ -7,3 +7,10 @@ Then measure sales numbers against budget to compare the values against performa
 ### Data Source 
 Using the .bak file to restore sample database to SQL Server instance from AdventureWorksDW2019.bak Data Warehouse can be found in the link below.
 https://docs.microsoft.com/en-us/sql/samples/adventureworks-install-configure?view=sql-server-ver15&tabs=ssms
+
+But since AdventureWorksDW original database contains data from 2010 to 2014, it is better to add a script that updates the date colums with recent dates and it inserts new dates in the date dimension by useing the current year as the last year for the data in the Adventure Works database. 
+For example: if the current year is 2021, the data after running the script will be from 2017 to 2021.
+
+The script, can be found in Update DATA.sql, also deletes leap year records from FactCurrencyRate and FactProductInventory to avoid having constraint issues.
+
+Credit of this script goes to David Alzamendi (https://techtalkcorner.com).
