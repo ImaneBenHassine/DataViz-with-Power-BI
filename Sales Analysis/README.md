@@ -14,3 +14,4 @@ For example: if the current year is 2021, the data after running the script will
 The script, can be found in Update DATA.sql, also deletes leap year records from FactCurrencyRate and FactProductInventory to avoid having constraint issues.
 
 Credit of this script goes to David Alzamendi (https://techtalkcorner.com).
+ 
