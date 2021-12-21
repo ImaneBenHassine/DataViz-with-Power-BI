@@ -15,3 +15,29 @@ The script, can be found in Update DATA.sql, also deletes leap year records from
 
 Credit of this script goes to David Alzamendi (https://techtalkcorner.com).
  
+### Steps
+
+
+ - Fact Table vs Dimension Table
+ - Identify necessary tables
+ - Data Clean & Transformation
+ - Create Dashboard
+ - Putting Portfolio
+
+
+
+Some of the following things are exemplified:
+
+- AS Statement (Renaming Columns)
+- Combining columns
+- Commenting in SQL Script
+- Formatting of SQL statements
+- WHERE Clause
+- ORDER BY
+- LEFT JOIN
+- Case() Function
+- IsNull() Funtion
+
+### Best Practices
+Using SQL Formatter Online helps to format the SQL code data and to read the SQL. This tool helps uses to beautify large SELECT statements and make it easy to read.
+https://codebeautify.org/sqlformatter
