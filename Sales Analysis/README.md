@@ -22,7 +22,6 @@ Credit of this script goes to David Alzamendi (https://techtalkcorner.com).
  - Identify necessary tables
  - Data Clean & Transformation
  - Create Dashboard
- - Putting Portfolio
 
 
 
