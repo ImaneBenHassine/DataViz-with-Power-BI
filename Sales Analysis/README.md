@@ -40,3 +40,7 @@ Some of the following things are exemplified:
 ### Best Practices
 Using SQL Formatter Online helps to format the SQL code data and to read the SQL. This tool helps uses to beautify large SELECT statements and make it easy to read.
 https://codebeautify.org/sqlformatter
+
+If there is issues with Power BI and the column headers not coming over with the CSV, go to SQL management studio :
+
+Tools -> Options -> Query Results -> SQL Server -> Results to Grid, then check 'Include column headers when copying or saving the results
